@@ -1,0 +1,120 @@
+
+*{
+    margin: 0%;
+}
+body{
+   --body-bg-color: #FAF7FD;
+   font-family: 'Poppins', sans-serif;
+   color: #BB99DD;
+   
+}
+.container{
+    display: flex;
+    display: block;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 10px;
+}
+
+#minha-foto{
+    margin-left: 45%;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #BB99DD;
+    padding: 3px;
+    
+}
+p{
+    margin-bottom: 20px;
+}
+.flex-item{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+     list-style: none;
+     text-align: center;
+}
+
+#link1{
+
+   border-style: solid;
+   border-width: 2px;
+   height: 10px;
+   width: 300px;
+   padding-bottom: 20px;
+   padding-top: 10px;
+   border-color: #BB99DD;
+   border-radius: 5px;
+   margin-bottom: 10px;
+   text-align: center;
+   color: #BB99DD;
+   font-weight: 600;
+   margin-right: 30px;
+    
+}
+
+#link2{
+    border-style: solid;
+    border-width: 2px;
+    height: 10px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-color: #BB99DD;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #BB99DD;
+    font-weight: 600;
+}
+
+#link3{
+    border-style: solid;
+    border-width: 2px;
+    height: 10px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-color: #BB99DD;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #BB99DD;
+    font-weight: 600;
+}
+
+#link4{
+    border-style: solid;
+    border-width: 2px;
+    height: 10px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-color: #BB99DD;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #BB99DD;
+    font-weight: 600;
+}
+
+footer{
+    margin-top: 50px;
+    margin-left: 5px;
+    justify-content: center;
+}
+#tt{
+    margin-right: 25px;
+}
+
+#tw{
+    margin-right: 25px;
+}
+#inst{
+    margin-right: 25px;
+}
+#lk{
+    margin-right: 25px;
+}
